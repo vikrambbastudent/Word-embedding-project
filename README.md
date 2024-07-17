@@ -7,7 +7,7 @@ To get started, download the dataset at huggingface.co/stanfordnlp/glove/resolve
 
 **Overview**
 
--Word embeddings are dense vector representations of words in a continuous vector space, where semantic relationships between words are captured based on their contextual usage. GloVe (Global Vectors for Word Representation) is one such technique that learns word embeddings by factorizing the word co-occurrence matrix.
+- Word embeddings are dense vector representations of words in a continuous vector space, where semantic relationships between words are captured based on their contextual usage. GloVe (Global Vectors for Word Representation) is one such technique that learns word embeddings by factorizing the word co-occurrence matrix.
 
 **Objectives**
 
