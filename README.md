@@ -31,11 +31,11 @@ To replicate the analysis and experiments conducted in this repository, you will
 
 **Introduction to Word Embeddings**
 
-- Explanation of word embeddings and their significance.
+- **Explanation of word embeddings and their significance.**
   
-- Overview of GloVe word embeddings.
+- **Overview of GloVe word embeddings.**
 
-- Exploratory Data Analysis (EDA)
+- **Exploratory Data Analysis (EDA)**
 
 - **Covariance Matrices**: Analyzing the relationships between word vectors.
   
