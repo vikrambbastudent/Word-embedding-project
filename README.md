@@ -11,7 +11,7 @@ To get started, download the dataset at huggingface.co/stanfordnlp/glove/resolve
 
 **Objectives**
 
--Apply EDA techniques to GloVe word embeddings to uncover their inherent structure.
+- Apply EDA techniques to GloVe word embeddings to uncover their inherent structure.
 
 - Explore techniques such as covariance matrices, clustering, PCA (Principal Component Analysis), and vector math to gain insights into the embeddings.
 
