@@ -3,7 +3,7 @@
 
 **The Dataset**
 
-To get started, download the dataset at huggingface.co/stanfordnlp/glove/resolve/main/glove.6B.zip . This contains three text files, each containing a list of words along with their vector representations. We will use the 300-dimensional representations (glove.6B.300d.txt).
+To get started, download the dataset at [huggingface.co/stanfordnlp/glove/resolve/main/glove.6B.zip] . This contains three text files, each containing a list of words along with their vector representations. We will use the 300-dimensional representations (glove.6B.300d.txt).
 
 **Overview**
 
